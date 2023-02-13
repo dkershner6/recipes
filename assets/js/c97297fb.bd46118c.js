@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkershner_recipes=self.webpackChunkkershner_recipes||[]).push([[465],{5724:e=>{e.exports=JSON.parse('{"label":"comfort","permalink":"/recipes/tags/comfort","allTagsPath":"/recipes/tags","count":1}')}}]);

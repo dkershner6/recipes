@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://recipes.dkershner.com/recipes</id>
+    <title>Kershner Recipes Blog</title>
+    <updated>2024-02-10T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://recipes.dkershner.com/recipes"/>
+    <subtitle>Kershner Recipes Blog</subtitle>
+    <icon>https://recipes.dkershner.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Keto Lasagna]]></title>
+        <id>https://recipes.dkershner.com/recipes/2024/02/10/lasagna</id>
+        <link href="https://recipes.dkershner.com/recipes/2024/02/10/lasagna"/>
+        <updated>2024-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Keto Lasagna recipe, both nutritious and delicious.]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ingredients">Ingredients<a href="#ingredients" class="hash-link" aria-label="Direct link to Ingredients" title="Direct link to Ingredients">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="sauce">Sauce<a href="#sauce" class="hash-link" aria-label="Direct link to Sauce" title="Direct link to Sauce">​</a></h3><ul><li>1/4 cup extra virgin olive oil</li><li>1-1.5 lb ground turkey</li><li>1 stalk Celery</li><li>1 medium yellow onion</li><li>6 cloves garlic (or more, to taste)</li><li>2 Pints Chicken Stock</li><li>1/2 cup red wine (any)</li><li>2 pinches Italian Seasoning</li><li>2 bay leaf</li><li>2 Roma tomatoes</li><li>1 bunch collard greens (about 6-7 leaves)</li><li>1 cup almond flour</li><li>Calabrian Chili Flakes (to taste)</li><li>Salt (to taste)</li><li>Pepper (to taste)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="lasagna">Lasagna<a href="#lasagna" class="hash-link" aria-label="Direct link to Lasagna" title="Direct link to Lasagna">​</a></h3><ul><li>2 cans heart of palm lasagna noodles</li><li>14 oz queso fresco</li><li>Bit of grated parmesan</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="instructions">Instructions<a href="#instructions" class="hash-link" aria-label="Direct link to Instructions" title="Direct link to Instructions">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="sauce-1">Sauce<a href="#sauce-1" class="hash-link" aria-label="Direct link to Sauce" title="Direct link to Sauce">​</a></h3><ol><li>In dutch oven or pot, olive oil and diced onion and celery until translucent.</li><li>Brown ground turkey, minced garlic, then add chicken stock. Bring back to light boil / simmer.</li><li>Add Italian seasoning, bay leaf, calabrian chili flakes, and red wine.</li><li>Remove ribs from collards, roughly chop, add.</li><li>Simmer for hours, at least 1-2.</li><li>Chop and add tomatoes.</li><li>Add almond flour.</li><li>Simmer for half hour.</li><li>Add salt, pepper.</li></ol><h3 class="anchor anchorWithStickyNavbar_LWe7" id="lasagna-1">Lasagna<a href="#lasagna-1" class="hash-link" aria-label="Direct link to Lasagna" title="Direct link to Lasagna">​</a></h3><ol><li>Preheat oven to 375F.</li><li>In Pyrex or similar baking dish, layer noodles, then sauce, then queso fresco, then parmesan 3 times each.</li><li>Top with pepper.</li><li>Bake for an hour until cheese is browned.</li></ol><p>Wait a bit, then eat. Enjoy!</p>]]></content>
+        <author>
+            <name>Derek Kershner</name>
+            <uri>https://github.com/dkershner6</uri>
+        </author>
+        <category label="comfort" term="comfort"/>
+        <category label="italian" term="italian"/>
+        <category label="keto" term="keto"/>
+        <category label="savory" term="savory"/>
+        <category label="tried-and-true" term="tried-and-true"/>
+    </entry>
+</feed>

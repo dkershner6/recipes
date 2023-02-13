@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkershner_recipes=self.webpackChunkkershner_recipes||[]).push([[863],{720:e=>{e.exports=JSON.parse('{"label":"tried-and-true","permalink":"/recipes/tags/tried-and-true","allTagsPath":"/recipes/tags","count":1}')}}]);
