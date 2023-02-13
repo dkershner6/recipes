@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkershner_recipes=self.webpackChunkkershner_recipes||[]).push([[30],{7221:e=>{e.exports=JSON.parse('{"label":"keto","permalink":"/recipes/tags/keto","allTagsPath":"/recipes/tags","count":1}')}}]);

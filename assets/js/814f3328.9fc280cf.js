@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkershner_recipes=self.webpackChunkkershner_recipes||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent Recipes","items":[{"title":"Keto Lasagna","permalink":"/recipes/2024/02/10/lasagna"}]}')}}]);

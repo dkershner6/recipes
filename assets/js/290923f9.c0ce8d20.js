@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkershner_recipes=self.webpackChunkkershner_recipes||[]).push([[117],{2267:e=>{e.exports=JSON.parse('{"label":"hawaiian","permalink":"/recipes/tags/hawaiian","allTagsPath":"/recipes/tags","count":1}')}}]);
