@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkershner_recipes=self.webpackChunkkershner_recipes||[]).push([[746],{8865:e=>{e.exports=JSON.parse('{"permalink":"/recipes/tags/greek","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Kershner Family Recipes, almost always keto","blogTitle":"Kershner Recipes"}')}}]);

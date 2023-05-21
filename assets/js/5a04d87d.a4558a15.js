@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkershner_recipes=self.webpackChunkkershner_recipes||[]).push([[163],{4814:e=>{e.exports=JSON.parse('{"permalink":"/recipes/tags/keto","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Kershner Family Recipes, almost always keto","blogTitle":"Kershner Recipes"}')}}]);

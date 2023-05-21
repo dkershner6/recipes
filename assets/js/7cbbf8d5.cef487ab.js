@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkershner_recipes=self.webpackChunkkershner_recipes||[]).push([[569],{960:e=>{e.exports=JSON.parse('{"permalink":"/recipes/tags/bright","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Kershner Family Recipes, almost always keto","blogTitle":"Kershner Recipes"}')}}]);

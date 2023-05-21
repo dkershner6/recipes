@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://recipes.dkershner.com/recipes</id>
     <title>Kershner Recipes Blog</title>
-    <updated>2024-02-12T00:00:00.000Z</updated>
+    <updated>2024-05-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://recipes.dkershner.com/recipes"/>
     <subtitle>Kershner Recipes Blog</subtitle>
     <icon>https://recipes.dkershner.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Keto Greek Wraps]]></title>
+        <id>https://recipes.dkershner.com/recipes/greek-wraps</id>
+        <link href="https://recipes.dkershner.com/recipes/greek-wraps"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Greek Salad with dressing swapped for tzatziki, wrapped in a tortilla. What's not to love?]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ingredients">Ingredients<a href="#ingredients" class="hash-link" aria-label="Direct link to Ingredients" title="Direct link to Ingredients">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="chicken--marinade">Chicken + Marinade<a href="#chicken--marinade" class="hash-link" aria-label="Direct link to Chicken + Marinade" title="Direct link to Chicken + Marinade">​</a></h3><ul><li>3 lbs Chicken Tenderloins, whole or roughly chopped</li><li>1/2 cup Olive Oil</li><li>1 Tbsp Lemon Juice</li><li>2 Jalepenos</li><li>1/2 cup Fresh Parsely Stems (or dried if you don't have fresh)</li><li>5 cloves Garlic, minced</li><li>1 Tbsp Thyme</li><li>2 Tbsp Rosemary</li><li>1 Tbsp Red Pepper Flakes (Optional, if not a spicy fan)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="tzatziki">Tzatziki<a href="#tzatziki" class="hash-link" aria-label="Direct link to Tzatziki" title="Direct link to Tzatziki">​</a></h3><ul><li>1 cup Greek Yogurt (Try to find lower sugar varieties for Keto, typically higher fat helps some)</li><li>1/2 English Cucumber, grated, salted, and thoroughly pressed and drained</li><li>1 Tbsp Lemon Juice</li><li>1 Tbsp Dill</li><li>2 cloves Garlic, minced</li><li>Salt (to taste)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="toppings">Toppings<a href="#toppings" class="hash-link" aria-label="Direct link to Toppings" title="Direct link to Toppings">​</a></h3><ul><li>1/2 medium red onion, minced</li><li>2 Roma Tomatoes, diced</li><li>1 cup Pitted Kalamata Olives, sliced</li><li>1/2 cup Sheep Feta Cheese, crumbled (or normal feta if you can't find sheep)</li><li>1 cup Pepperoncini, sliced</li><li>Lots of greens (Baby Spinach, Arugula, Kale, Chard, etc)</li><li>Tabasco (optional)</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="also">Also<a href="#also" class="hash-link" aria-label="Direct link to Also" title="Direct link to Also">​</a></h3><ul><li>10-12 Tortillas (I prefer Mission Carb Balance Whole Wheat)</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="instructions">Instructions<a href="#instructions" class="hash-link" aria-label="Direct link to Instructions" title="Direct link to Instructions">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="chicken--marinade-1">Chicken + Marinade<a href="#chicken--marinade-1" class="hash-link" aria-label="Direct link to Chicken + Marinade" title="Direct link to Chicken + Marinade">​</a></h3><ol><li>Put stemmed jalepenos, parsely, olive oil, lemon juice into a blender, blend until smooth.</li><li>Add garlic, thyme, rosemary, red pepper flakes.</li><li>Pour marinade over chicken, mix well, and let sit for at least 2 hours, ideally overnight.</li></ol><h3 class="anchor anchorWithStickyNavbar_LWe7" id="tzatziki-1">Tzatziki<a href="#tzatziki-1" class="hash-link" aria-label="Direct link to Tzatziki" title="Direct link to Tzatziki">​</a></h3><ol><li>Mix all ingredients together well, and let sit for at least 2 hours, ideally overnight.</li></ol><h3 class="anchor anchorWithStickyNavbar_LWe7" id="meal-time">Meal Time<a href="#meal-time" class="hash-link" aria-label="Direct link to Meal Time" title="Direct link to Meal Time">​</a></h3><ol><li>Grill or pan fry chicken on very high heat, until cooked through and slightly charred. Salt and pepper to taste, be bold. Liquid should be completely gone.</li><li>Place line of chicken on tortilla, then red onion, tomato, olives, feta.</li><li>Add tabasco at this time if desired.</li><li>Add pepperoncinis, some tzatziki, then copious greens.</li></ol>]]></content>
+        <author>
+            <name>Derek Kershner</name>
+            <uri>https://github.com/dkershner6</uri>
+        </author>
+        <category label="greek" term="greek"/>
+        <category label="keto" term="keto"/>
+        <category label="bright" term="bright"/>
+        <category label="fresh" term="fresh"/>
+        <category label="tried-and-true" term="tried-and-true"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keto "Mac" Salad]]></title>
         <id>https://recipes.dkershner.com/recipes/mac-salad</id>
