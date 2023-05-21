@@ -2,7 +2,7 @@
 title: Keto "Mac" Salad
 description: Keto Mac Salad recipe, using exactly zero Mac.
 authors: dkershner
-date: 2024-02-12
+date: 2023-02-12
 tags:
     - hawaiian
     - keto
